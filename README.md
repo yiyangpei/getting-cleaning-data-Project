@@ -1,10 +1,11 @@
 ## Submission to Getting and Cleaning Data Course Project
 
-This repository contains the following files required to submit for the Getting and Cleaning Data Course Project.
+This repository contains the following files required to be submitted for the Getting and Cleaning Data Course Project.
 
 * run_analysis.R: 
-The script details the R codes that are used to process the raw data and subsequently obtain the tidy data set. 
-It assumes that the orignial data file contained in the folder "UCI HAR Dataset" is in the working directory. 
+The script details the R codes that are used to process the orignial data and subsequently obtain the tidy data set. 
+It assumes that the orignial data file contained in the folder "UCI HAR Dataset" is in the working directory.  
+It outputs the tidy data as a txt file named "Data_Tidy.txt"
 
 * Codebook.md: 
 The script describes the variables, the data and the work that performed to clean up the data. 
